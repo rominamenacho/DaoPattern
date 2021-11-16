@@ -1,0 +1,7 @@
+C:\Users\54926\source\repos\DaoPattern-Arquitecture\DaoPattern-Arquitecture\bin\Debug\DaoPattern-Arquitecture.exe.config
+C:\Users\54926\source\repos\DaoPattern-Arquitecture\DaoPattern-Arquitecture\bin\Debug\DaoPattern-Arquitecture.exe
+C:\Users\54926\source\repos\DaoPattern-Arquitecture\DaoPattern-Arquitecture\bin\Debug\DaoPattern-Arquitecture.pdb
+C:\Users\54926\source\repos\DaoPattern-Arquitecture\DaoPattern-Arquitecture\obj\Debug\DaoPattern-Arquitecture.csproj.AssemblyReference.cache
+C:\Users\54926\source\repos\DaoPattern-Arquitecture\DaoPattern-Arquitecture\obj\Debug\DaoPattern-Arquitecture.csproj.CoreCompileInputs.cache
+C:\Users\54926\source\repos\DaoPattern-Arquitecture\DaoPattern-Arquitecture\obj\Debug\DaoPattern-Arquitecture.exe
+C:\Users\54926\source\repos\DaoPattern-Arquitecture\DaoPattern-Arquitecture\obj\Debug\DaoPattern-Arquitecture.pdb
